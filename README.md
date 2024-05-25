@@ -1,2 +1,2 @@
 # netmet
-A partser for NetMet files
+A parser for NetMet files
