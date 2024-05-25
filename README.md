@@ -1,2 +1,2 @@
 # netmet
-A partser forNetMet files
+A partser for NetMet files
